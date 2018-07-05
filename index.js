@@ -1,1 +1,1 @@
-console.log('Hello! Welcome to the calculator!');
+console.log('Welcome to the calculator!');
